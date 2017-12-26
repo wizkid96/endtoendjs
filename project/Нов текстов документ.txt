@@ -1,0 +1,6 @@
+step one start the application in the terminal by locating the project foler.
+step two in the termianl enter the following code "npm install express mongojs body-parser"
+step three write on the console "node project.js" 
+and now you may test to crud in a program called postman.
+notes - I couldn't get the students by name so i got them by their id
+delete and update are not working.
